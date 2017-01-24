@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PingPong</string>
+    <string name="ping">Ping!</string>
+    <string name="pong">Pong!</string>
+</resources>
