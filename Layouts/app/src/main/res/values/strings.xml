@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Layouts</string>
 
     <string name="relative_layout">RelativeLayout</string>
     <string name="linear_layout">LinearLayout</string>
