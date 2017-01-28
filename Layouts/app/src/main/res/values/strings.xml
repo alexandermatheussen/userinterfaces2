@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="relative_layout">RelativeLayout</string>
+    <string name="linear_layout">LinearLayout</string>
+    <string name="grid_layout">GridLayout</string>
+
+    <string name="first_name">Voornaam</string>
+    <string name="last_name">Achternaam</string>
+    <string name="age">Leeftijd</string>
+
+    <string name="close">Sluiten</string>
+</resources>
