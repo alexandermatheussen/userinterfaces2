@@ -2,7 +2,7 @@ About
 =====
 NPM + jQuery + Webpack
 
-Bevat enkel `app.js` en `index.html`. Alle Javascript code is terug te vinden in `app.js`.
+Bevat `app.js`, `greeting.js` en `index.html`. Javascript code wordt uitgesplitst in verschillende JS bronbestanden in de `js` directory.
 
 Instructies
 ===========
