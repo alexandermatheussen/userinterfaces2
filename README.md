@@ -43,3 +43,9 @@ In deze repository vind je voorbeeldcode voor het vak User Interfaces 2. Elke di
 - [webpack_demo_js_css](webpack_demo_js_css)
 
   Basis Node.js/NPM web app. NPM dependencies: jquery en webpack. Een extra Javascript bronbestand is toegevoegd alsook een CSS bestand.
+
+### Week 4
+
+- [bootstrap_demo](bootstrap_demo)
+
+  Eenvoudig Bootstrap project. Gebruikt webpack-dev-server.
