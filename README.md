@@ -49,3 +49,9 @@ In deze repository vind je voorbeeldcode voor het vak User Interfaces 2. Elke di
 - [bootstrap_demo](bootstrap_demo)
 
   Eenvoudig Bootstrap project. Gebruikt webpack-dev-server.
+
+### Week 6
+
+- [webpack_sass](webpack_sass)
+
+  Eenvoudig Webpack project met Sass dependency.
